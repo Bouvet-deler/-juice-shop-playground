@@ -1,2 +1,5 @@
-# -juice-shop-playground
-Juice-Shop Playground - for use in gitpod. Workshop related.
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Bouvet-deler/juice-shop-playground)
+
+# Playground for using Juice Shop
+
+Purpose of this repository is to start juice-shop using Gitpod.io.
