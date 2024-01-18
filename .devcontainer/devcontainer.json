@@ -1,0 +1,7 @@
+{
+    "name": "JuiceShop",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "juice-shop",
+    "appPort": ["3000"],
+    "extensions": ["ms-azuretools.vscode-docker"],
+}
